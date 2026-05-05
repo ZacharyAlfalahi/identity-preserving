@@ -1,0 +1,17 @@
+.DS_Store
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.env
+.env.*
+*.pem
+*.key
+data/
+datasets/
+*.csv
+*.xlsx
+*.pkl
+*.pt
+*.pth
+*.h5
+models/
